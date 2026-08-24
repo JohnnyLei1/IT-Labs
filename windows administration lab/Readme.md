@@ -38,7 +38,7 @@ In this lab, i practiced basic windows administration by creating a local user, 
 
 ### local user account
 
-![local User Account](./01 user account.png)
+![local User Account](windows administration lab/01 user account.png)
 
 
 ## Result
