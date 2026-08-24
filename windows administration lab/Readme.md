@@ -34,6 +34,12 @@ In this lab, i practiced basic windows administration by creating a local user, 
 - Access provision and removal
 - Basic trouble shooting
 
+##Evidence
+
+### 1. Local user account
+![local User Account](01 user account.png
+
+
 ## Result
 
 Successfully demonstrated how group membership can be used to grant and remove access to a window resource
