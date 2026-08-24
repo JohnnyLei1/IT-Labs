@@ -40,6 +40,9 @@ In this lab, i practiced basic windows administration by creating a local user, 
 
 ![local user account](./01-user-account.png)
 
+### Group membership
+![group Membership](./Group-membership.png)
+
 
 ## Result
 
