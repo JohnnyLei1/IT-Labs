@@ -44,10 +44,10 @@ In this lab, i practiced basic windows administration by creating a local user, 
 ![group Membership](./Group-membership.png)
 
 ### Permissions
-![Permission](permissions.png)
+![Permission](./permissions.png)
 
 ### Access Test
-![Access test](Access.test.png)
+![Access test](./Access.test.png)
 
 ## Result
 
