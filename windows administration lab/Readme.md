@@ -43,6 +43,11 @@ In this lab, i practiced basic windows administration by creating a local user, 
 ### Group membership
 ![group Membership](./Group-membership.png)
 
+### Permissions
+![Permission](permissions.png)
+
+### Access Test
+![
 
 ## Result
 
