@@ -47,7 +47,7 @@ In this lab, i practiced basic windows administration by creating a local user, 
 ![Permission](./permissions.png)
 
 ### Access Test
-![Access Test](./Access-test.png
+![Access Test](./access-test.png)
 
 ## Result
 
