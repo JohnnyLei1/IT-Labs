@@ -25,7 +25,7 @@ Practice managing Windows users, groups, and file/folder permission
 
 ### Permissions
 
-![Permissions](./permisson.png)
+![Permissions](./permission.png)
 
 ### Access Test
 
