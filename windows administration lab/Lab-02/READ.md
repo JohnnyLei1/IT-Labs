@@ -29,7 +29,7 @@ Practice managing Windows users, groups, and file/folder permission
 
 ### Access Test
 
-![Access Test](./access-test.png)
+![Access Test](./Access-test.png)
 
 ### Access Results
 
