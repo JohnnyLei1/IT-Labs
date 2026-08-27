@@ -13,7 +13,7 @@ Practice managing Windows users, groups, and file/folder permission
 
 ### Folder Structure
 
-![Folder Structure](./folder-structure.png)
+![Folder Structure](./Folder-structure.png)
 
 ### Users
 
