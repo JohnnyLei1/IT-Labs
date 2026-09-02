@@ -1,2 +1,2 @@
 # IT-Labs
-Hands onIT, System Administration, Networking.
+Hands on IT, System Administration, Networking.
